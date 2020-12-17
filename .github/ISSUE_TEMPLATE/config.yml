@@ -1,0 +1,4 @@
+contact_links:
+  - name: Security Reporting
+    url: mailto:security@meltwater.com
+    about: Please report security vulnerabilities here.
