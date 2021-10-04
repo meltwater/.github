@@ -4,7 +4,7 @@
 
 Meltwater as a company has 4 [core values](https://meltwater.com/en/about/culture), which are the Norwegian words Moro (Fun), Enere (Number One), Respekt (Respect), and together we combine them to be MER (More).
 
-We are the Product & Engineering team, ~500 people across 70 teams, 15 offices and 10 countries.
+We are the Product & Engineering team, 700+ people across 70 teams, 15 offices and 10 countries.
 
 If you want to join us, we currently have [~60 job openings](https://underthehood.meltwater.com/jobs/) and you can also read about what we do and how we do it on [our engineering blog](https://underthehood.meltwater.com/).
 
