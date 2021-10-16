@@ -1,4 +1,4 @@
-<img src="/MeltwaterEngGithubProfile.jpg" alt="Meltwater Engineering" style="width:870px; height:190px; object-fit: cover; border-radius: 6px;">
+![Meltwater Engineering](./MeltwaterEngGithubProfile.png)
 
 [Meltwater](https://meltwater.com/) offers a media monitoring and social listening platform.
 
