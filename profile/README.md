@@ -1,4 +1,6 @@
-![Meltwater Engineering](/profile/MeltwaterEngGithubProfile.png)
+<p align="center">
+  <img width="600" height="130" src="/profile/MeltwaterEng.gif">
+</p>
 
 [Meltwater](https://meltwater.com/) offers a media monitoring and social listening platform.
 
